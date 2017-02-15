@@ -1,0 +1,42 @@
+.navbar{
+	background-color: #ffcc00;
+}
+
+	@font-face{
+
+	font-family: Lato-Black.ttf;
+	src:url(Lato2OFL/Lato-Black.ttf)format('opentype');
+}
+
+.navbar p{
+	font-size: 20px;
+	font-family: Lato-Black-ttf;
+	color:white;
+	text-align: left;
+	font-weight: bold;
+	margin-left: 120px;
+}
+.navbar h2{
+	font-family: Lato-Black-ttf;
+	color:white;
+	text-align: left;
+	font-weight: bold;
+	margin-left: 50px;
+}
+.navbar-header > img{
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	border: 2px solid #1aa3ff;
+	margin-bottom: 30px;
+	margin-right: 100px;
+}
+
+.navbar .glyphicon {
+	color: white;
+	padding: 20px;
+}
+
+.jumbotron img{
+	background:url("img/familia.jpg"); 
+}
